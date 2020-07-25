@@ -2255,6 +2255,7 @@ max-width: 100%;
 		}
 
 		.feature-grid .feature {
+			min-height: 250px;
 			display: inline-block;
 			float: left;
 			margin-bottom: 3em;
