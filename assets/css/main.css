@@ -4488,8 +4488,8 @@ max-width: 100%;
 }
 
 #call-to-action p {
-	font: 20px/36px "merriweather-light", serif;
-	color: #707273;
+	
+	color: #d0d4d6;
 	width: 75%;
 }
 
@@ -4499,7 +4499,7 @@ max-width: 100%;
 }
 
 #call-to-action h2 {
-	font: 30px/36px "raleway-bold", sans-serif;
+
 	color: #FFFFFF;
 	letter-spacing: -0.5px;
 	margin-bottom: 24px;
